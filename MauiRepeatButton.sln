@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiRepeatButton", "MauiRepeatButton\MauiRepeatButton.csproj", "{B5E492E0-1F94-4538-9B2E-2AAF77190DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E492E0-1F94-4538-9B2E-2AAF77190DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E492E0-1F94-4538-9B2E-2AAF77190DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E492E0-1F94-4538-9B2E-2AAF77190DE7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B5E492E0-1F94-4538-9B2E-2AAF77190DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E492E0-1F94-4538-9B2E-2AAF77190DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E492E0-1F94-4538-9B2E-2AAF77190DE7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD2B281-359C-41B0-8F75-BC67448BAA5E}
+	EndGlobalSection
+EndGlobal
