@@ -55,16 +55,7 @@ public partial class RepeatButton : Button
         }
     }
 
-    private CancellationTokenSource? _cts;
-    public CancellationTokenSource? Cts
-    {
-        get => _cts;
-        internal set
-        {
-            _cts = value;
-            OnPropertyChanged(nameof(Cts));
-        }
-    }
+    private CancellationTokenSource? Cts;
 
     public RepeatButton()
 	{
